@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="6)q(jLbLNr=C$Jup6nCP">length</variable><variable id="RXsmzr0MS.s*lOtzHFUD">hertz</variable></variables><block type="device_forever" id="qYJ#8X/rfArkvW@{@IIB" x="9" y="-18"><statement name="HANDLER"><block type="device_show_leds" id="bzyn$/=Q959@N:6O4H$r"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="6)q(jLbLNr=C$Jup6nCP">length</variable><variable id="RXsmzr0MS.s*lOtzHFUD">hertz</variable></variables><block type="device_forever" id="qYJ#8X/rfArkvW@{@IIB" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="bzyn$/=Q959@N:6O4H$r"><field name="LEDS">`
         . . # . . 
         # # # # # 
         . . # . . 

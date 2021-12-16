@@ -1,8 +1,8 @@
 basic.forever(function () {
     basic.showLeds(`
-        . . # . .
         # # # # #
         . . # . .
+        . # . # .
         . # . # .
         . # . # .
         `)
@@ -93,15 +93,15 @@ basic.forever(function () {
         basic.clearScreen()
         basic.pause(500)
         basic.showLeds(`
-            . . # . .
             # # # # #
             . . # . .
+            . # . # .
             . # . # .
             . # . # .
             `)
     }
     basic.showLeds(`
-        . . # . .
+        . # # # .
         . # # # .
         . # # # .
         . . # . .

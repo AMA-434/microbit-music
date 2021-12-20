@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "cutebot": "github:elecfreaks/pxt-cutebot#v6.0.1"
+        "cutebot": "github:elecfreaks/pxt-cutebot#v6.0.1",
+        "midi": "github:microsoft/pxt-midi#v2.2.0"
     },
     "files": [
         "main.blocks",
